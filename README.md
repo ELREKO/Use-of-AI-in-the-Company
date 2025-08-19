@@ -1,2 +1,6 @@
 # Use-of-AI-in-the-Company
 As part of the certification for the IHK Certificate Cyber Security Advisor, I wrote a paper. In it, a policy for the use of Artificial Intelligence is introduced within a fictitious company.
+
+The paper consists of two parts. In the first part, the Information Security Management System (ISMS) methodology is used to describe the company and the problem in more detail. In the second part, this serves as the basis for deriving the policy on the use of AI.
+
+The topic is of great current relevance and would have deserved a more comprehensive treatment. I would have gladly done so, but I was limited by the training institute to a minimum scope of 12 content pages.
