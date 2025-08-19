@@ -5,4 +5,4 @@ The paper consists of two parts. In the first part, the Information Security Man
 
 The topic is of great current relevance and would have deserved a more comprehensive treatment. I would have gladly done so, but I was limited by the training institute to a minimum scope of 12 content pages.
 
-[link](Zertifizierung_IHK_Cyber_Security_Advisor.pdf)
+[Zertifizierung_IHK_Cyber_Security_Advisor](Zertifizierung_IHK_Cyber_Security_Advisor.pdf)
