@@ -11,4 +11,4 @@ The topic is of great current relevance and would have deserved a more comprehen
     <a href="Zertifizierung_IHK_Cyber_Security_Advisor_non_CP.pdf">PDF herunterladen</a>
 </object>
 
-
+**Please note that for some browsers, additional extensions may be required to view PDF files correctly on GitHub.**
